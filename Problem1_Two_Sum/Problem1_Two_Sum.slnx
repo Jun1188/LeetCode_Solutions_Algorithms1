@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem1_Two_Sum.vcxproj" Id="25c4dd1e-2d6a-40e8-84ab-a87c120fdb48" />
+</Solution>
