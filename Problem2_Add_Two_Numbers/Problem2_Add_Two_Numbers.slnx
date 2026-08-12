@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem2_Add_Two_Numbers.vcxproj" Id="d713121b-b28d-402c-b744-1181aaca8575" />
+</Solution>
